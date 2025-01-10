@@ -32,9 +32,8 @@ To get started with Power BI and this project, you will need:
    - Use Power BI's drag-and-drop interface to create visualizations:
      - **Card** visualization for key metrics (Total Cases, Total Deaths, Total Recoveries, Total Active Cases).
      - **Bar/Column Charts** for comparing statistics by state.
-     - **Line Charts** for tracking trends over time (e.g., daily confirmed cases, recoveries, deaths).
      - **Map** visualization for showing state-wise distributions.
-     - **Table** visualization for detailed state-level data.
+    
   
 7. **Customize Your Dashboard**:
    - Arrange visualizations on the report page to create an interactive and easy-to-read dashboard.
