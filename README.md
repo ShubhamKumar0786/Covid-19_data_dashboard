@@ -46,7 +46,8 @@ To get started with Power BI and this project, you will need:
 
 
 
-![1](https://github.com/user-attachments/assets/3a2f0407-ff64-4f3c-a682-85d932e28057)
+
+![15](https://github.com/user-attachments/assets/35ce5979-904e-48fb-88f6-713a09f1c441)
 
 
 
