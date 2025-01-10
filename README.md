@@ -6,7 +6,7 @@ This project provides a comprehensive **COVID-19 Data Dashboard for India** buil
 
 - **National Overview**: Visualize key COVID-19 statistics for India, including total confirmed cases, deaths, recoveries, active cases.
 - **State-Level Breakdown**: Analyze data for each state in India with interactive charts showing daily and cumulative trends.
-- **Trend Analysis**: Display daily changes in COVID-19 cases, recoveries, deaths, and vaccinations.
+- **Trend Analysis**: Display daily changes in COVID-19 cases, recoveries and deaths.
 - **Geographical Distribution**: Show state-wise COVID-19 distribution and trends on an interactive map.
 
 ## Power BI Setup
