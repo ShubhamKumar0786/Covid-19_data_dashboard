@@ -76,6 +76,10 @@ To get started with Power BI and this project, you will need:
 
 
 
+
+https://github.com/user-attachments/assets/40184aaf-b8ff-4383-9c31-0c11acfe1cf7
+
+
 ## Project Insights:
 
 - **The South zone of India was most affected.**
